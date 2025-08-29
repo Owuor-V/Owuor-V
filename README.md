@@ -46,20 +46,20 @@
 ## 🚀 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/your-github-username/microservices-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=microservices-architecture&theme=radical" />
-  </a>
-  <a href="https://github.com/your-github-username/docker-kafka-integration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=docker-kafka-integration&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/your-github-username/python-automation-scripts">
+  <a href="https://github.com/Owuor-V/InternetBankingBackend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=python-automation-scripts&theme=radical" />
   </a>
   <a href="https://github.com/your-github-username/springboot-eureka-server">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=springboot-eureka-server&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Owuor-V/SpringSecurity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=microservices-architecture&theme=radical" />
+  </a>
+  <a href="https://github.com/your-github-username/docker-kafka-integration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=docker-kafka-integration&theme=radical" />
   </a>
 </p>
 
