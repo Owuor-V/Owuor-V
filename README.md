@@ -81,15 +81,20 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@your-medium"><img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://dev.to/your-devto"><img src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
 
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1abc9c&height=120&section=footer"/>
 </p>
-
