@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-✨ A passionate <strong>Software Developer</strong> specializing in <strong>Java, Spring Boot, Microservices, and Python</strong>.  
+✨ A passionate <strong>Software Developer</strong> specializing in <strong>Java, Spring Boot, Microservices, Python</strong> and Django.  
 💡 Skilled in building **scalable backend systems, APIs, and cloud-native solutions**.  
 🌱 Currently learning and experimenting with **Docker, Kubernetes, and system design**.  
 
