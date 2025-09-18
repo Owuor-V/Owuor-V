@@ -35,14 +35,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owuor-V&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owuor-V&layout=compact&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Owuor-V&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Owuor-V&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=7200" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owuor-V&layout=compact&theme=tokyonight&cache_seconds=7200" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Owuor-V&theme=tokyonight" height="160px"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Owuor-V&label=Profile%20views&color=blue&style=for-the-badge" alt="Owuor-V profile views"/>
 </p>
+
 
 ---
 
